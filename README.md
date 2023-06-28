@@ -10,4 +10,6 @@ The script works only on 1920x1080 res. cuz of the fixed coordinates
 
 (It is not bannable because Dead By Daylight doesn't care if you use macros or something like that so don't worry c:)
 
+if you want to execute the script u need to have autohotkey: https://www.autohotkey.com
+
 Here is my dbd-legion-afk-farming-script: https://github.com/3Tamao3/DBD-AFK-LEGION-FARMING
