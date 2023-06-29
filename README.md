@@ -2,7 +2,7 @@
 
 Dead By Daylight script for leveling up! Tired of wasting ur energy and time on left clicking on the bloodweb? then try this script c: 
 
-Info: You need to be atleast prestige 1 to unlock the automatic purchase bloodweb feature.
+Info: You need to be atleast prestige 1 to unlock the automatic purchase bloodweb feature and you need to change ur settings ot this: https://prnt.sc/Yf4Q0xDCubYs.
 
 
 The script works only on 1920x1080 res. cuz of the fixed coordinates
