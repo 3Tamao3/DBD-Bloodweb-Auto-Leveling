@@ -1,6 +1,6 @@
-# DBD-auto-leveling
+# DBD-auto-leveling(Bloodweb)
 
-Dead By Daylight script for leveling up! Tired of wasting ur energy and time on left clicking on the bloodweb? then try this script c: 
+Dead By Daylight script for leveling up! Tired of wasting your energy and time on left clicking on the bloodweb? then try this script c: 
 
 Info: You need to be atleast prestige 1 to unlock the automatic purchase bloodweb feature and you need to change ur settings to this: https://prnt.sc/Dd5-AV0zLaUq.
 After everything is done just open the Bloodweb and press F7 to start the script. If you want to stop the script just press F7 again.
