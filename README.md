@@ -2,9 +2,12 @@
 
 Info
 -
-Dead By Daylight script for leveling up! Tired of wasting your energy and time on left clicking on the bloodweb? then try this script c: 
+Dead By Daylight Bloodweb leveling script. The script clicks for you.
 
-You need to be atleast prestige 1 to unlock the automatic purchase bloodweb feature and you need to change ur settings to this: https://prnt.sc/Dd5-AV0zLaUq.
+You need to be atleast prestige 1 to unlock the automatic purchase bloodweb feature.
+
+you need to change ur settings to this: https://prnt.sc/Dd5-AV0zLaUq.
+
 After everything is done just open the Bloodweb and press F7 to start the script. If you want to stop the script just press F7 again.
 
 The script works only on 1920x1080 res. cuz of the fixed coordinates
@@ -13,7 +16,7 @@ The script works only on 1920x1080 res. cuz of the fixed coordinates
 
 Links
 -
-if you want to execute the script u need to have autohotkey: https://www.autohotkey.com
+You need AutoHotKey to use the script: https://www.autohotkey.com
 
 My other "Projects".
 -
